@@ -94,7 +94,8 @@ git cherry-pick C5 C4' C3' C2'</code></pre>
 
 ![pcottle solution][pcottle_op]
 
-###### Hooks Solution:
+##### Hooks Solution:
+Contents of post-commit file.
 <pre><code>#!/bin/sh
 start https://github.com/chetanpawar0989/DevOpsHW0</code></pre>
 
