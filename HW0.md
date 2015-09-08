@@ -99,8 +99,6 @@ Contents of post-commit file.
 <pre><code>#!/bin/sh
 start https://github.com/chetanpawar0989/DevOpsHW0</code></pre>
 
-![hook solution][hook_op]
+[Video for git-hooks demo](http://youtu.be/3BP5Wx73tHo)
 
 [pcottle_op]: https://github.com/chetanpawar0989/DevOpsHW0/blob/master/pcottle-git.jpg
-[hook_op]: https://github.com/chetanpawar0989/DevOpsHW0/blob/master/hook.gif
-
